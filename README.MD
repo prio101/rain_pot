@@ -28,3 +28,13 @@
 #### Tests
 
 -> Run `python -m unittest` in the terminal.
+
+
+### Todo:
+
+1. Get the movies from the clouds / HardDisk. -> Done
+2. Create a subclip from the movie -> Done
+3. Remove the audio -> Done
+4. Add the new audio -> Done
+5. Add the new text over the clip
+6. Save the clip over the harddisk.
