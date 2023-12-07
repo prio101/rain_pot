@@ -22,7 +22,7 @@
 
 #### How to run the program?
 
--> Run `python main.py` in the terminal.
+-> Run `python src/main.py` in the terminal.
 
 
 #### Tests
@@ -36,5 +36,5 @@
 2. Create a subclip from the movie -> Done
 3. Remove the audio -> Done
 4. Add the new audio -> Done
-5. Add the new text over the clip
-6. Save the clip over the harddisk.
+5. Add the new text over the clip -> Done
+6. Save the clip over the harddisk. -> Done
