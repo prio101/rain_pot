@@ -1,6 +1,6 @@
 ## RainPot
 ### A simple rainwater harvesting system for the movies and clips
-
+![RainPot](../static/illustration.webp)
 #### What is RainPot?
 
 -> This system will collect the movies from the clouds and store them in the local storage.
