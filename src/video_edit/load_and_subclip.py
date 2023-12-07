@@ -1,7 +1,7 @@
 """Importing the videoclip"""
 from moviepy.editor import VideoFileClip
 
-class VideoLoadAndMakeSubclip:
+class LoadAndSubclip:
     """Video Loader and Subclipper"""
     def __init__(self, file_path, str):
         self.file_path = file_path
