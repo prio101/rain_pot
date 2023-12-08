@@ -1,2 +1,3 @@
 venv/
-assets/
+assets/*/*.mp4
+assets/*/*.mp3
