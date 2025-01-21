@@ -1,3 +1,29 @@
+Metadata-Version: 2.1
+Name: Rain-Pot
+Version: 0.1.0
+Summary: Collects Video from cloud, Generates video with text overlay, watermark, and background music; Collects and saves into a single file
+Home-page: https://github.com/prio101/rain_pot
+Author: Mahabub Islam
+Author-email: miprio101@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: certifi==2023.11.17
+Requires-Dist: charset-normalizer==3.3.2
+Requires-Dist: decorator==4.4.2
+Requires-Dist: idna==3.6
+Requires-Dist: imageio==2.33.0
+Requires-Dist: imageio-ffmpeg==0.4.9
+Requires-Dist: moviepy==1.0.3
+Requires-Dist: numpy==1.24.4
+Requires-Dist: Pillow==9.5.0
+Requires-Dist: proglog==0.1.10
+Requires-Dist: requests==2.31.0
+Requires-Dist: tqdm==4.66.1
+Requires-Dist: urllib3==2.1.0
+
 ## RainPot
 ### A simple rainwater harvesting system for the movies and clips
 ![RainPot](./static/illustration.webp)
